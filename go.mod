@@ -5,7 +5,7 @@ go 1.16
 require (
 	// When updating crd-ref-docs, verify that there were no changes from Elastic to hostile licenses.
 	github.com/elastic/crd-ref-docs v0.0.7
-	github.com/go-logr/logr v0.4.0
+	github.com/go-logr/logr v1.0.0
 	github.com/go-logr/zapr v0.4.0
 	github.com/imdario/mergo v0.3.12
 	github.com/knadh/koanf v1.1.1
